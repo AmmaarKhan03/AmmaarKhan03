@@ -9,6 +9,5 @@ Computer Science student focused on full-stack and backend development.
 - REST APIs, JWT, RBAC
 
 ### Featured Projects
-- **AniShelf** – Anime & Manga Library API
 - **PeerPath** – Real-time student study platform
 - **CLI ATM** - A CLI ATM system 
