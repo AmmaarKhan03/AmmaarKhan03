@@ -1,13 +1,13 @@
 ## Hi, I’m Ammaar 👋
 
-Computer Science student focused on full-stack and backend development.
+I’m a Computer Science student focused on building full-stack applications and reliable backend systems.
 
-### Tech I Work With
-- C++, TypeScript, JavaScript
-- React, Node.js, Express
-- PostgreSQL, SQLite
-- REST APIs, JWT, RBAC
+### 🛠️ Tech Stack
 
-### Featured Projects
-- **PeerPath** – Real-time student study platform
-- **CLI ATM** - A CLI ATM system 
+* **Languages:** C++, TypeScript, JavaScript, Python
+* **Frontend:** React, HTML, CSS
+* **Backend:** Node.js, Express
+* **Databases:** PostgreSQL, SQLite, Supabase
+* **APIs & Authentication:** REST APIs, JWT, Role-Based Access Control
+* **Tools:** Git, GitHub, npm
+* **Core Concepts:** Object-Oriented Programming, Data Structures, Algorithms, Database Design
